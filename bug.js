@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI with a project that has a package.json file with an incorrect or missing "main" field. The Expo CLI relies on this field to determine the entry point of your application. If the "main" field is missing or points to a non-existent file, the Expo CLI will fail to start the project.
